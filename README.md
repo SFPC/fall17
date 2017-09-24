@@ -3,13 +3,13 @@
 
 The Fall program will focus on four tracks.
 
-1. Code (taught by Zach Lieberman with TA Robby Kraft)
+1. Code ([Recreating the Past]!(https://github.com/ofZach/recreatingThePast_fall17) taught by Zach Lieberman with TA Robby Kraft)
 
-2. Critical theory (taught by Morehshin Allahyari, TA Melanie Hoff)
+2. Critical theory ([The Radical Outside](https://github.com/morehshin/TheRadicalOutside) taught by Morehshin Allahyari, TA Melanie Hoff)
 
-3. Hardware (taught by Taeyoon Choi and Pam Liou with TA Max Fowler) 
+3. Hardware ([Handmaking Computer](https://github.com/tchoi8/HandmakingComputer) taught by Taeyoon Choi and Pam Liou with TA Max Fowler) 
 
-4. Code Poetry (taught by Ramsey Nasser, Sam Lavigne and Nick Montfort). 
+4. Code Poetry (taught by Ramsey Nasser, Sam Lavigne and Nick Montfort with TA Todd Anderson). 
 
 We’re excited to have Golan Levin join us as SFPC’s artist in residence and this session will be organized by Taeyoon, Zach and Lauren Gardner.
 
