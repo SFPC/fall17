@@ -3,7 +3,7 @@
 
 The Fall program will focus on four tracks.
 
-1. Code ([Recreating the Past]!(https://github.com/ofZach/recreatingThePast_fall17) taught by Zach Lieberman with TA Robby Kraft)
+1. Code ([Recreating the Past](https://github.com/ofZach/recreatingThePast_fall17) taught by Zach Lieberman with TA Robby Kraft)
 
 2. Critical theory ([The Radical Outside](https://github.com/morehshin/TheRadicalOutside) taught by Morehshin Allahyari, TA Melanie Hoff)
 
